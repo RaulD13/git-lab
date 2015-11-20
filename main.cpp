@@ -14,8 +14,14 @@ int main(){
 
 
 
+
 int subtract(int n, int m ){
 
   
   return n-m;
 }
+
+int add( int n, int m){
+    return n+m
+}
+

@@ -12,11 +12,7 @@ int main(){
 	
 }
 
-int add(int n, int m){
 
-
- return n+m;
-}
 
 int subtract(int n, int m ){
 
